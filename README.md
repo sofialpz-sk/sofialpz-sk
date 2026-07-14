@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there, I'm Sofia @ Simon Kucher 👋
+
+Check out my personal profile at [sofia-lpz](https://github.com/sofia-lpz/)
 
 <!--
 **sofialpz-sk/sofialpz-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
